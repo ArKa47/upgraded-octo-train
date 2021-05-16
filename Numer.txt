@@ -1,0 +1,8 @@
+positive definite matrix?
+
+
+fromdense?   from 'csrmatrix'?
+
+latex?
+
+npm cubic spline?
